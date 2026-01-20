@@ -1,6 +1,6 @@
-# 📊 Business Sales Performance Analytics of an Online Retail Store
+#  Business Sales Performance Analytics of an Online Retail Store
 
-## 📌 Project Overview
+##  Project Overview
 
 This project analyzes historical transactional data from an online retail store to evaluate overall sales performance and uncover actionable business insights. The analysis focuses on revenue trends, product performance, geographic contribution, and key business KPIs to support data-driven decision-making.
 
@@ -8,7 +8,7 @@ The project demonstrates an end-to-end analytics workflow, from data cleaning an
 
 ---
 
-## 🧠 Business Problem
+##  Business Problem
 
 The business has access to large volumes of transactional sales data but lacks a clear, consolidated view of performance across:
 
@@ -21,7 +21,7 @@ Without structured analysis, decision-makers have limited visibility into revenu
 
 ---
 
-## 🎯 Project Objectives
+##  Project Objectives
 
 * Assess overall sales performance using revenue, order volume, and trends over time
 * Identify top-performing and underperforming products by revenue contribution
@@ -35,7 +35,7 @@ Without structured analysis, decision-makers have limited visibility into revenu
 
 ---
 
-## ❓ Key Business Questions
+##  Key Business Questions
 
 * How has revenue changed over time?
 * Which products contribute the most to total revenue?
@@ -45,7 +45,7 @@ Without structured analysis, decision-makers have limited visibility into revenu
 
 ---
 
-## 📊 Dataset Overview
+##  Dataset Overview
 
 * **Source:** Online Retail transactional dataset
 * **Records:** 541,909 rows
@@ -62,7 +62,7 @@ Without structured analysis, decision-makers have limited visibility into revenu
 
 ---
 
-## 🧹 Data Cleaning & Preparation
+##  Data Cleaning & Preparation
 
 The dataset was cleaned and transformed to ensure accuracy and usability:
 
@@ -76,7 +76,7 @@ The dataset was cleaned and transformed to ensure accuracy and usability:
 
 ---
 
-## ⚙️ Feature Engineering
+##  Feature Engineering
 
 Additional time-based features were created to support trend analysis:
 
@@ -88,18 +88,18 @@ These features enabled monthly, quarterly, and seasonal performance analysis.
 
 ---
 
-## 📈 Key Performance Indicators (KPIs)
+##  Key Performance Indicators (KPIs)
 
 * **Total Revenue:** 10.64M
 * **Total Orders:** 20,610
 * **Average Order Value (AOV):** 516.48
 * **Revenue Lost from Cancelled Orders:** −896,812
 
-> ⚠️ The dataset does not include cost data. Profitability is estimated using an assumed average gross margin (30%) for comparative and trend analysis only.
+>  The dataset does not include cost data. Profitability is estimated using an assumed average gross margin (30%) for comparative and trend analysis only.
 
 ---
 
-## 🔍 Exploratory Data Analysis (EDA)
+##  Exploratory Data Analysis (EDA)
 
 ### Revenue Trends
 
@@ -129,7 +129,7 @@ These features enabled monthly, quarterly, and seasonal performance analysis.
 
 ---
 
-## 📊 Tableau Dashboard
+##  Tableau Dashboard
 
 A clean, analysis-ready dataset was exported for visualization in Tableau.
 
@@ -143,7 +143,7 @@ A clean, analysis-ready dataset was exported for visualization in Tableau.
 
 ---
 
-## ✅ Key Conclusions
+##  Key Conclusions
 
 * Sales performance shows strong seasonal patterns
 * Revenue is concentrated in a limited number of products and one primary market
@@ -152,7 +152,7 @@ A clean, analysis-ready dataset was exported for visualization in Tableau.
 
 ---
 
-## 💡 Business Recommendations
+##  Business Recommendations
 
 * Investigate seasonality and promotional strategies driving revenue peaks
 * Reduce reliance on top products by promoting mid-performing items
@@ -162,7 +162,7 @@ A clean, analysis-ready dataset was exported for visualization in Tableau.
 
 ---
 
-## 🛠 Tools & Technologies
+##  Tools & Technologies
 
 * **Python:** Pandas, NumPy, Matplotlib, Seaborn
 * **Visualization:** Tableau
@@ -171,7 +171,7 @@ A clean, analysis-ready dataset was exported for visualization in Tableau.
 
 ---
 
-## 📁 Project Outputs
+##  Project Outputs
 
 * Cleaned, dashboard-ready dataset
 * Exploratory analysis notebook
